@@ -5,8 +5,6 @@ numpy==1.23.5
 altair<5
 matplotlib==3.6.2
 seaborn==0.12.1
-plotly==5.7.2
 imbalanced-learn==0.9.1
-warnings==3.0
-pickle==5.0.0
-joblib==1.1.0
+joblib==1.1.1
+backcall==0.2.0

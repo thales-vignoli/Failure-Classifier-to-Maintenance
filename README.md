@@ -24,7 +24,7 @@ For a detailed description of the project, including methodologies, insights, an
 Feel free to reach out to me for any questions or feedback regarding the project or the analysis.
 
 ## Contributing
-Contributions and suggestions to improve this project are welcome. Please refer to the `CONTRIBUTING.md` file for guidelines on how to contribute.
+Contributions and suggestions to improve this project are welcome.
 
 ## Contact
 For inquiries or feedback, you can contact me via [LinkedIn](https://www.linkedin.com/in/thalesvignoli/?locale=en_US).
